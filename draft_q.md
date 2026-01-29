@@ -310,3 +310,166 @@
 
 ---
 
+**Research Questionnaire: HKUSPACE Student Perceptions Toward Online Privacy**
+
+**Section A: Online Experiences & Practices**
+
+1. When signing up for new websites or apps, how often are you asked to provide personal information (e.g., name, email, date of birth)?
+   - Never
+   - Rarely
+   - Sometimes
+   - Often
+   - Always
+
+2. For your HKUSPACE studies, how often do you need to create accounts on educational platforms or websites?
+   - Never
+   - Rarely
+   - Sometimes
+   - Often
+   - Always
+
+3. What type of personal information are you most uncomfortable sharing online for your studies? *(Select one)*
+   - Student ID number
+   - Full name
+   - Phone number
+   - Home address
+   - Date of birth
+   - Financial information
+   - I'm comfortable sharing all required information for studies
+
+4. How often do you read privacy policies before agreeing to them?
+   - Never
+   - Rarely
+   - Sometimes
+   - Often
+   - Always
+
+**Section B: Privacy Concerns & Attitudes**
+
+5. How concerned are you about how companies use your personal data collected online?
+   - Not at all concerned
+   - Slightly concerned
+   - Moderately concerned
+   - Very concerned
+   - Extremely concerned
+
+6. To what extent do you agree with this statement: "I feel I have control over my personal information online."
+   - Strongly disagree
+   - Disagree
+   - Neutral
+   - Agree
+   - Strongly agree
+
+7. How concerned are you about data security when using online platforms for your HKUSPACE coursework?
+   - Not at all concerned
+   - Slightly concerned
+   - Moderately concerned
+   - Very concerned
+   - Extremely concerned
+
+8. Which online privacy risk concerns you the most? *(Select one)*
+   - Identity theft
+   - Unwanted targeted advertising
+   - Data being sold to third parties
+   - Account hacking
+   - Location tracking
+   - None of these concern me
+
+**Section C: Institutional Context**
+
+9. How clear are HKUSPACE's policies about how your student data is collected and used?
+   - Very unclear
+   - Somewhat unclear
+   - Neutral
+   - Somewhat clear
+   - Very clear
+
+10. To what extent do you trust HKUSPACE to protect your personal data?
+    - Do not trust at all
+    - Trust slightly
+    - Neutral
+    - Trust moderately
+    - Trust completely
+
+11. When using HKUSPACE online systems, how often do you consider what happens to your data?
+    - Never
+    - Rarely
+    - Sometimes
+    - Often
+    - Always
+
+**Section D: Protective Behaviors**
+
+12. How often do you use privacy settings on social media platforms?
+    - Never
+    - Rarely
+    - Sometimes
+    - Often
+    - Always
+
+13. What steps do you take to protect your online privacy? *(Select all that apply)*
+    - Use strong, unique passwords
+    - Enable two-factor authentication
+    - Limit personal information shared online
+    - Use privacy-focused browsers/search engines
+    - Regularly clear cookies/browsing history
+    - I don't take specific steps
+
+14. How often do you decline to use a website or app because of privacy concerns?
+    - Never
+    - Rarely
+    - Sometimes
+    - Often
+    - Always
+
+**Section E: Educational Context**
+
+15. How important is it for HKUSPACE to provide education about online privacy?
+    - Not at all important
+    - Slightly important
+    - Moderately important
+    - Very important
+    - Extremely important
+
+16. Have you ever received information about online privacy through HKUSPACE?
+    - Yes, formal training/workshop
+    - Yes, through course materials
+    - Yes, informal advice
+    - No, never
+
+17. What online privacy topics would be most useful for HKUSPACE to cover? *(Select all that apply)*
+    - Managing social media privacy
+    - Understanding terms and conditions
+    - Protecting financial information online
+    - Data protection laws in Hong Kong
+    - Safe practices for academic research
+    - None, I don't need this information
+
+**Section F: Technology Use & Demographics**
+
+18. On average, how many hours per day do you spend online for both studies and personal use?
+    - Less than 2 hours
+    - 2-4 hours
+    - 5-7 hours
+    - 8-10 hours
+    - More than 10 hours
+
+19. What is your current level of study at HKUSPACE?
+    - Certificate/Diploma
+    - Associate Degree
+    - Bachelor's Degree
+    - Postgraduate Certificate/Diploma
+    - Master's Degree
+    - Professional Development
+
+20. Which broad field best describes your programme of study at HKUSPACE?
+    - Business & Management
+    - Creative Arts & Design
+    - Education & Languages
+    - Health & Social Sciences
+    - Science & Technology
+    - Tourism & Hospitality
+    - Other: _____
+
+---
+
