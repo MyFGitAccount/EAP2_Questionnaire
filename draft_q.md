@@ -149,3 +149,164 @@
     *   More than HKD $10,000
 
 ---
+**Research Questionnaire: HKUSPACE Student Perceptions on Open Access to Academic Knowledge**
+
+**Section A: Awareness & Experience**
+
+1. Have you encountered paid academic essays or papers while searching for research materials?
+   - Yes
+   - No
+
+2. How familiar are you with the term "open access" in relation to academic publications?
+   - Not familiar at all
+   - Slightly familiar
+   - Moderately familiar
+   - Very familiar
+   - Extremely familiar
+
+3. In your studies at HKUSPACE, how often have you accessed open access academic materials (freely available journals, repositories, etc.)?
+   - Never
+   - Rarely
+   - Occasionally
+   - Frequently
+   - Always
+
+4. What types of academic materials do you most frequently need for your HKUSPACE coursework? *(Select all that apply)*
+   - Journal articles
+   - Textbooks
+   - Conference papers
+   - Theses/dissertations
+   - Case studies
+   - Government/public reports
+   - Other: _____
+
+**Section B: Perceptions of Accessibility**
+
+5. How easy or difficult is it for you to access the academic materials you need through HKUSPACE-provided resources?
+   - Very difficult
+   - Somewhat difficult
+   - Neutral
+   - Somewhat easy
+   - Very easy
+
+6. When you cannot access a needed academic paper through HKUSPACE, what do you typically do? *(Select one)*
+   - Search for an open access version
+   - Use alternative available materials
+   - Request through interlibrary loan
+   - Ask classmates to share
+   - Give up on using that source
+   - Other: _____
+
+7. How important is it for HKUSPACE to provide access to academic journals and databases?
+   - Not at all important
+   - Slightly important
+   - Moderately important
+   - Very important
+   - Extremely important
+
+8. What percentage of the academic materials you need do you estimate are behind paywalls (require payment to access)?
+   - 0-20%
+   - 21-40%
+   - 41-60%
+   - 61-80%
+   - 81-100%
+
+**Section C: Attitudes Toward Open Access**
+
+9. To what extent do you agree with this statement: "Academic research funded by public money should be freely available to the public."
+   - Strongly disagree
+   - Disagree
+   - Neutral
+   - Agree
+   - Strongly agree
+
+10. What do you see as the main benefit of open access academic publishing?
+    - Broader dissemination of knowledge
+    - Equity in access regardless of institution
+    - Faster availability of research
+    - Support for interdisciplinary research
+    - Other: _____
+
+11. What concerns, if any, do you have about open access academic publishing? *(Select all that apply)*
+    - Quality control issues
+    - Sustainability of publishing models
+    - Author processing charges
+    - No concerns
+    - Other: _____
+
+12. How likely are you to publish your own academic work in open access formats in the future?
+    - Very unlikely
+    - Unlikely
+    - Neutral
+    - Likely
+    - Very likely
+    - Not applicable
+
+**Section D: Institutional Context**
+
+13. To what extent do you feel HKUSPACE students are informed about open access resources?
+    - Not at all informed
+    - Slightly informed
+    - Moderately informed
+    - Well informed
+    - Very well informed
+
+14. How satisfied are you with HKUSPACE library resources for your academic needs?
+    - Very dissatisfied
+    - Dissatisfied
+    - Neutral
+    - Satisfied
+    - Very satisfied
+
+15. What additional resources related to open access would be helpful for your HKUSPACE studies? *(Select all that apply)*
+    - Workshops on finding open materials
+    - Clearer guidance on copyright and sharing
+    - Institutional repository access
+    - Recommendations for open educational resources
+    - None needed
+    - Other: _____
+
+**Section E: Financial & Ethical Considerations**
+
+16. Have you ever paid to access an academic paper or book chapter for your HKUSPACE studies?
+    - Yes, multiple times
+    - Yes, once or twice
+    - No, never
+
+17. If you encountered a paywalled paper essential for your HKUSPACE assignment, what would you do? *(Select one)*
+    - Pay for access if affordable
+    - Request it through HKUSPACE library
+    - Search for alternative sources
+    - Contact the author directly
+    - Use informal sharing networks
+    - Other: _____
+
+18. To what extent do you agree: "Access to academic knowledge should not be limited by an individual's ability to pay."
+    - Strongly disagree
+    - Disagree
+    - Neutral
+    - Agree
+    - Strongly agree
+
+**Section F: Demographic Information**
+
+19. What is your current level of study at HKUSPACE?
+    - Certificate/Diploma
+    - Associate Degree
+    - Bachelor's Degree
+    - Postgraduate Certificate/Diploma
+    - Master's Degree
+    - Professional Development
+    - Other: _____
+
+20. Which broad field best describes your programme of study at HKUSPACE?
+    - Business & Management
+    - Creative Arts & Design
+    - Education & Languages
+    - Health & Social Sciences
+    - Science & Technology
+    - Tourism & Hospitality
+    - Other: _____
+
+---
+
