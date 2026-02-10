@@ -5,7 +5,7 @@ Of course. Here is the revision of each sub-question in the requested format: fi
 **1. Original Sub-Question:**
 *What is students’ current subscription behaviour (types/categories used, number of active subscriptions, and estimated monthly spending)?*
 
-**Problem Identified (from your comment):**
+**Problem Identified:**
 This is a **behavioural question** aiming for objective facts (number, spending). Such data is challenging to measure accurately and objectively via self-reporting (e.g., surveys, interviews), as students may forget, estimate incorrectly, or be unwilling to share precise financial details. It mismatches with a perception-based study.
 
 **Improved Version (Focusing on Perceived Behaviour/Self-Report):**
@@ -16,7 +16,7 @@ This is a **behavioural question** aiming for objective facts (number, spending)
 **2. Original Sub-Question:**
 *What are HKU SPACE CC students’ habits and patterns regarding paid online subscriptions?*
 
-**Problem Identified (from your comment):**
+**Problem Identified:**
 Similar to the first, this seeks to describe **objective habits and patterns**, which is a behavioural inquiry. Accurately capturing "patterns" requires longitudinal or observational data, which is difficult to obtain. It should be reframed to explore **perceptions of their own habits**.
 
 **Improved Version (Focusing on Perceived Habits):**
@@ -27,7 +27,7 @@ Similar to the first, this seeks to describe **objective habits and patterns**, 
 **3. Original Sub-Question:**
 *What are the main motivations for subscribing (e.g., convenience, entertainment, academic needs, ad-free experience, exclusive content), and which factors [motivations?] matter most?*
 
-**Problem Identified (from your comment):**
+**Problem Identified:**
 The phrasing is slightly broad. To align with a perception study, it should explicitly ask students to **evaluate the importance** of these motivations from their perspective.
 
 **Improved Version (Focusing on Perceived Importance):**
@@ -82,7 +82,7 @@ The phrase "influence... decisions" leans slightly towards causal behaviour. For
 **8. Original Sub-Question:**
 *What disadvantages do students experience (e.g., rising total cost, content fragmentation, hidden fees, difficult cancellation, lack of ownership), and what strategies do they use to overcome this disadvantage (e.g., sharing, rotating subscriptions, using free tiers)?*
 
-**Problem Identified (from your comment):**
+**Problem Identified:**
 The first part ("experience") can be misinterpreted as asking for behavioural facts. The second part ("strategies... use") is also behavioural. Both should be framed as **perceptions of significance** and **awareness of strategies**.
 
 **Improved Version (Focusing on Perceived Significance & Awareness):**
@@ -94,7 +94,7 @@ The first part ("experience") can be misinterpreted as asking for behavioural fa
 **9. Original Sub-Question:**
 *What is students’ overall attitude toward the wider “subscription economy” (more products/services shifting to subscriptions), and what is their future willingness to pay?*
 
-**Problem Identified (from your comment):**
+**Problem Identified:**
 The term "subscription economy" is jargon that needs to be clearly defined for participants. "Future willingness to pay" is a behavioural intention, which is acceptable, but the link to the broader trend should be clearer.
 
 **Improved Version (Defining the Concept):**
