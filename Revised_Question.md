@@ -106,7 +106,7 @@ The term "subscription economy" is jargon that needs to be clearly defined for p
 *How do HKU SPACE CC students perceive the broader trend of products and services shifting from one-time purchases to subscription-based models, and what drives these perceptions?*
 
 **Problem Identified:**
-This is very similar to #9 and overlaps. The strength here is the explicit ask about *what drives* the perceptions.
+This is very similar to 9 and overlaps. The strength here is the explicit ask about *what drives* the perceptions.
 
 **Improved Version (Merging Strength with 9):**
 *What are the key drivers (e.g., perceived value, sense of control, financial pressure) that shape HKU SPACE CC students' **perceptions** of the trend toward subscription-based models over one-time purchases?*
