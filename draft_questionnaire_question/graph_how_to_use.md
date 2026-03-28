@@ -1,3 +1,5 @@
+
+
 ---
 
 ## Quick Reference Table: Image Usage by Section
@@ -13,7 +15,6 @@
 | 2.7 User Experience | `15_change_plan_vs_disadvantage.png`, `25_forgotten_renewal_vs_monitoring.png`, `26_forgotten_renewal_vs_overall_view.png` | `16_convenience_vs_monitoring.png` |
 | 2.8 Overall Attitudes | `8_spending_vs_overall_view.png`, `13_savings_vs_overall_view.png`, `26_forgotten_renewal_vs_overall_view.png`, `29_flexibility_vs_convenience_matrix.png` | `28_cancel_reason_vs_overall_view.png` |
 
----
 
 
 
