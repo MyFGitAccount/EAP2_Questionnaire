@@ -1,4 +1,3 @@
-Based on your analysis report and the available visualizations (PNG files), here is a comprehensive guide on which images to use in each section and how to write the accompanying discussion.
 
 ---
 
