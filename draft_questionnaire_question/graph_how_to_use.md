@@ -230,4 +230,4 @@
 
 ---
 
-This structure allows you to systematically incorporate each visualization into the appropriate section while maintaining a coherent narrative flow from demographics through to overall attitudes.
+
