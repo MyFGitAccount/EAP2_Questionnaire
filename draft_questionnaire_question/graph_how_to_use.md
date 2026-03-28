@@ -1,3 +1,21 @@
+---
+
+## Quick Reference Table: Image Usage by Section
+
+| Section | Primary Images | Supporting Images |
+|---------|----------------|-------------------|
+| 2.1 Demographics | `1_programme_vs_usage.png`, `3_spending_vs_usage.png` | — |
+| 2.2 Usage Patterns | `1_programme_vs_usage.png`, `2_programme_vs_service_types.png`, `4_spending_vs_service_types.png` | `3_spending_vs_usage.png` |
+| 2.3 Cancellation Factors | `6_programme_vs_cancel_reason.png`, `27_cancel_reason_vs_advantage.png`, `28_cancel_reason_vs_overall_view.png` | — |
+| 2.4 Payment Preferences | `11_spending_vs_preference.png`, `12_lowcost_vs_preference.png`, `23_service_types_vs_payment.png` | — |
+| 2.5 Cost-Saving Strategies | `18_awareness_vs_active_strategies.png`, `19_spending_vs_active_strategies.png` | — |
+| 2.6 Perceptions | `8_spending_vs_overall_view.png`, `9_spending_vs_disadvantage.png`, `13_savings_vs_overall_view.png`, `22_service_types_vs_advantage.png` | — |
+| 2.7 User Experience | `15_change_plan_vs_disadvantage.png`, `25_forgotten_renewal_vs_monitoring.png`, `26_forgotten_renewal_vs_overall_view.png` | `16_convenience_vs_monitoring.png` |
+| 2.8 Overall Attitudes | `8_spending_vs_overall_view.png`, `13_savings_vs_overall_view.png`, `26_forgotten_renewal_vs_overall_view.png`, `29_flexibility_vs_convenience_matrix.png` | `28_cancel_reason_vs_overall_view.png` |
+
+---
+
+
 
 ---
 
@@ -212,22 +230,4 @@
 > The findings collectively indicate that HKUSPACE students are active subscription users but reluctant adopters of the subscription model. They engage with subscriptions primarily for entertainment and, to a lesser extent, academic purposes, but they do so while maintaining a strong preference for one-time purchases. Negative experiences—particularly unexpected charges and difficulty canceling—substantially shape attitudes, as does skepticism about the long-term cost-effectiveness of subscriptions.
 >
 > For service providers and institutions, these findings suggest that improving transparency around cancellation processes, providing clearer renewal notifications, and offering flexible payment options could improve user satisfaction and potentially shift attitudes. For students, greater awareness of cost-saving strategies—particularly rotating services and pausing rather than canceling—could reduce financial waste and improve perceived value.
-
----
-
-## Quick Reference Table: Image Usage by Section
-
-| Section | Primary Images | Supporting Images |
-|---------|----------------|-------------------|
-| 2.1 Demographics | `1_programme_vs_usage.png`, `3_spending_vs_usage.png` | — |
-| 2.2 Usage Patterns | `1_programme_vs_usage.png`, `2_programme_vs_service_types.png`, `4_spending_vs_service_types.png` | `3_spending_vs_usage.png` |
-| 2.3 Cancellation Factors | `6_programme_vs_cancel_reason.png`, `27_cancel_reason_vs_advantage.png`, `28_cancel_reason_vs_overall_view.png` | — |
-| 2.4 Payment Preferences | `11_spending_vs_preference.png`, `12_lowcost_vs_preference.png`, `23_service_types_vs_payment.png` | — |
-| 2.5 Cost-Saving Strategies | `18_awareness_vs_active_strategies.png`, `19_spending_vs_active_strategies.png` | — |
-| 2.6 Perceptions | `8_spending_vs_overall_view.png`, `9_spending_vs_disadvantage.png`, `13_savings_vs_overall_view.png`, `22_service_types_vs_advantage.png` | — |
-| 2.7 User Experience | `15_change_plan_vs_disadvantage.png`, `25_forgotten_renewal_vs_monitoring.png`, `26_forgotten_renewal_vs_overall_view.png` | `16_convenience_vs_monitoring.png` |
-| 2.8 Overall Attitudes | `8_spending_vs_overall_view.png`, `13_savings_vs_overall_view.png`, `26_forgotten_renewal_vs_overall_view.png`, `29_flexibility_vs_convenience_matrix.png` | `28_cancel_reason_vs_overall_view.png` |
-
----
-
 
